@@ -31,6 +31,8 @@
 
 # URL
 
+https://sangeethagnanavel.github.io/Password_Generator/
+
 # Author
 
 Sangeetha Gnanavel, a Full Stack Developer having enormous experience in Front-end and Back-end application development.
